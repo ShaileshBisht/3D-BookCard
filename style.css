@@ -74,3 +74,7 @@ body {
   font-size: 18px;
   transition: 0.2s;
 }
+
+.card .details .content .social-icons a:hover {
+  background: red;
+}
