@@ -49,3 +49,8 @@ body {
   font-weight: 700;
   line-height: 1em;
 }
+
+.card .details .content h2 span {
+  color: red;
+  font-size: 0.8em;
+}
