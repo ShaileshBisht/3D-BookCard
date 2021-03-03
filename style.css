@@ -6,3 +6,11 @@
   box-sizing: border-box;
   font-family: "Akaya Telivigala", cursive;
 }
+
+body {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background: #fbe9e7;
+}
