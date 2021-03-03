@@ -36,6 +36,10 @@ body {
   background: #000;
 }
 
+.card:hover .imgBox {
+  transform: rotateY(-180deg);
+}
+
 .card .imgBox img {
   /* position: absolute;
   top: 0;
